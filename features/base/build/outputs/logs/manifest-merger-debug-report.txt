@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:16:1-28:12
+INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:16:1-28:12
+INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:16:1-28:12
+INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:16:1-28:12
+INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:16:1-28:12
+INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:16:1-28:12
+INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:16:1-28:12
+	package
+		ADDED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:17:5-58
+		INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml
+		INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml
+		ADDED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:16:1-28:12
+		INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml
+		ADDED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:16:1-28:12
+		INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:16:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:19:22-64
+application
+ADDED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:21:5-26:55
+	android:supportsRtl
+		ADDED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:26:9-40
+	android:name
+		ADDED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml:22:9-37
+uses-sdk
+INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml
+INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml
+INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml
+INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml
+		ADDED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml
+		INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml
+		ADDED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml
+		INJECTED from /home/square1/Documents/testSample/hello-feature-module/features/base/src/main/AndroidManifest.xml

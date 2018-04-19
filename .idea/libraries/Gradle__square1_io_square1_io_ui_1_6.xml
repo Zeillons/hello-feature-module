@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: square1.io:square1.io.ui-1.6">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/square1.io.ui-1.6.aar/c4e86167ac19f85d6a444f9bd5b5c2ee/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/square1.io.ui-1.6.aar/c4e86167ac19f85d6a444f9bd5b5c2ee/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/square1.io/square1.io.ui/1.6/858ec62219cc6a7f12745d42a19d62e5991d4530/square1.io.ui-1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

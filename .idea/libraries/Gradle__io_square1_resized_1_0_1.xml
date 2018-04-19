@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.square1:resized-1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/resized-1.0.1.aar/f82f0e9229842d97624f44cfaf501b2b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/resized-1.0.1.aar/f82f0e9229842d97624f44cfaf501b2b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.square1/resized/1.0.1/399e3600df179b8953a156d9780232ad37ddda4f/resized-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

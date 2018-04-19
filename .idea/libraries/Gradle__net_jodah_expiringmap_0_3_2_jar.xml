@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.jodah:expiringmap:0.3.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.jodah/expiringmap/0.3.2/e240b6756e02159e7017b057f9cf2aa6057c94d4/expiringmap-0.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.jodah/expiringmap/0.3.2/d3d65063ec7cbc74a8dfd7d0c6e62314ec0c77e2/expiringmap-0.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: square1.io:http-2.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/http-2.0.3.aar/7f02506b6aecd0d8987de0e5de562407/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/http-2.0.3.aar/7f02506b6aecd0d8987de0e5de562407/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/square1.io/http/2.0.3/9a7b38616e354fcf901e878d36d876a39beb756a/http-2.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
